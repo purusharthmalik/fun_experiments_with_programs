@@ -20,5 +20,6 @@ A3 booklet form with 2 A4 pages on each side, every even page   flipped by 180 d
 * Convert to A3
 * To flip even pages of booklet by 180 degrees.
 * Merge files as single output/ or not?
+* Make an executable file for windows users or a web application
 
 
